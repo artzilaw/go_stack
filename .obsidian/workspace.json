@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "95a1bb030d892c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47b4d13639d1aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f673f4536f61605e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go_основы/10_Пользовательский ввод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10_Пользовательский ввод"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875e92fa4a98944f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1968f5f372863c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e184bf0b345201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7ad15cf022bcabaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b1a6cf9087f66498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c3c12fcd4a82188",
+    "type": "split",
+    "children": [
+      {
+        "id": "de840c0f035c3374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785e2e8274f869d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "go_основы/02_Условные ветвления.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 02_Условные ветвления"
+            }
+          },
+          {
+            "id": "d972661403129a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "go_основы/02_Условные ветвления.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 02_Условные ветвления"
+            }
+          },
+          {
+            "id": "20501431408597c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "2dd1191b6f7f64df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "74fadc04ec40f3a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "go_основы/02_Условные ветвления.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 02_Условные ветвления"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f673f4536f61605e",
+  "lastOpenFiles": [
+    "go_основы/09_Массивы, слайсы и  мапы.md",
+    "go_основы/03_0_Циклы.md",
+    "go_основы/10_Пользовательский ввод.md",
+    "Ссылки на темы.md",
+    "Pasted image 20260717222403.png",
+    "картинки/struct.png",
+    "картинки/package.png",
+    "картинки/modules_practick_bad.png.png",
+    "картинки/maps_example.png",
+    "картинки/slice_empty_make.png",
+    "картинки/slice_append_result.png",
+    "картинки/slice_struct.png",
+    "картинки/massive_cycles.png",
+    "картинки/stack.png",
+    "go_основы/08_Модули и пакеты.md",
+    "go_основы/07_Структуры.md",
+    "go_основы/00_Знакомство_и_первая_прога.md",
+    "go_основы/02_Условные ветвления.md",
+    "go_основы/01_Общее представление о переменных.md",
+    "go_основы/06_Указатели.md",
+    "go_основы/03_1_Циклы(некоторые библиотеки ).md",
+    "go_основы/04_Функции.md",
+    "go_основы/05_defer().md",
+    "картинки/url.html",
+    "go_основы/05_/Без названия.md",
+    "go_основы/05_",
+    "циклах.md",
+    "картинки",
+    "Data Types and Variables.md",
+    "go_основы",
+    "создайте ссылку.md"
+  ]
+}
