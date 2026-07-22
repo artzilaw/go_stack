@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a47b4d13639d1aee",
+        "id": "0ce43756ad7c3376",
         "type": "tabs",
         "children": [
           {
-            "id": "f673f4536f61605e",
+            "id": "daaac93f246a94a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go-углубленный/11_Интерфейсы.md",
+                "file": "Go-углубленный/14_Горутины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_Интерфейсы"
+              "title": "14_Горутины"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go_основы/02_Условные ветвления.md",
+                "file": "Go-углубленный/13_panic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 02_Условные ветвления"
+              "title": "Обратные ссылки для 13_panic"
             }
           },
           {
@@ -183,24 +183,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f673f4536f61605e",
+  "active": "daaac93f246a94a6",
   "lastOpenFiles": [
-    "картинки/time_complication_of_structures.png",
-    "картинки/map_and_slice_time.png",
-    "go_основы/02_Условные ветвления.md",
+    "картинки/cpu_core.png",
+    "картинки/telegram_gorutines.png",
+    "картинки/telegram_message_maket.png",
+    "картинки/chanels_nonbuffer.png.png",
+    "картинки/chanels_buffer.png",
+    "картинки/chanels_result.png",
+    "go_основы/09_Массивы, слайсы и  мапы.md",
+    "Go-углубленный/14_Горутины.md",
+    "картинки/three_miners_sleep_result_one_second.png.png",
+    "Pasted image 20260722130353.png",
+    "картинки/three_miners_sleep_result.png",
+    "картинки/three_miners_wrong_work.png",
+    "картинки/three_miners_result.png",
+    "Go-углубленный/13_panic.md",
+    "Go-углубленный/12_Обработка ошибок.md",
     "Go-углубленный/11_Интерфейсы.md",
+    "go_основы/02_Условные ветвления.md",
     "Ссылки на темы.md",
     "go_основы/05_defer().md",
-    "go_основы/09_Массивы, слайсы и  мапы.md",
-    "картинки/maps_example.png",
-    "картинки/logic.png",
-    "картинки/massive_cycles.png",
-    "картинки/massive_static_append.jpg",
-    "картинки/modules_practick.png",
-    "картинки/modules_practick_bad.png.png",
-    "картинки/massive.png",
-    "картинки/pointer_result_example.png",
-    "картинки/slice_append_result.png",
     "Pasted image 20260717222403.png.md",
     "go_основы/10_Пользовательский ввод.md",
     "Go-углубленный",
