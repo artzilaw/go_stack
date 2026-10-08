@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce990b754e7ddadb",
+        "id": "7d4e0fabbbfc59fd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf5e86c64ba61324",
+            "id": "343b3385ff5aa92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go_stack/3_backend-технологии/1_база по бекенд технологиям/3_Базы данных и PostgreSQL.md",
+                "file": "go_stack/3_backend-технологии/1_база по бекенд технологиям/4_PostgreSQL и практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Базы данных и PostgreSQL"
+              "title": "4_PostgreSQL и практика"
             }
           }
         ]
@@ -188,26 +188,30 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "bf5e86c64ba61324",
+  "active": "343b3385ff5aa92f",
   "lastOpenFiles": [
+    "go_stack/картинки/psql_tom_pearl.png",
+    "psql_.md",
+    "go_stack/3_backend-технологии/1_база по бекенд технологиям/4_PostgreSQL и практика.md",
+    "go_stack/картинки/psql_title_unique.png",
+    "go_stack/картинки/tasks_title_unique.png",
+    "go_stack/картинки/psql_insert_3.png",
+    "go_stack/картинки/psql_tasks_insert.png",
+    "go_stack/картинки/psql_tasks_first_100.png",
+    "go_stack/картинки/psql_create_task.png",
+    "алгосы/теория по алгосам/1_Оценка эффективности.md",
+    "go_stack/картинки/psql_server.png",
+    "go_stack/1_go_основы/08_Модули и пакеты.md",
+    "go_stack/3_backend-технологии/1_база по бекенд технологиям/3_Базы данных и PostgreSQL.md",
+    "go_stack/Ссылки на темы.md",
     "go_stack/картинки/psql_users.png",
     "go_stack/картинки/psql_primary_key.png",
     "go_stack/картинки/psql_task_second_table.png",
-    "go_stack/картинки/psql_task_saved.png",
     "go_stack/3_backend-технологии/1_база по бекенд технологиям/2_Git практика.md",
     "go_stack/3_backend-технологии/1_база по бекенд технологиям/1_Git теория.md",
-    "go_stack/3_backend-технологии/1_база по бекенд технологиям/3_Базы данных и PostgreSQL.md",
-    "go_stack/картинки/psql_task_struct.png",
-    "go_stack/картинки/psql_table.png",
-    "go_stack/картинки/db_start.png",
     "go_stack/3_backend-технологии/2_базы данных/3_Информация о SQL/1_Вводная информация о SQL.md",
-    "go_stack/картинки/sql_dialect.png",
-    "go_stack/картинки/db_operations.png",
-    "go_stack/db_operations.png",
-    "db_operations.png",
     "go_stack/1_go_основы/01_Общее представление о переменных.md",
     "go_stack/3_backend-технологии/2_базы данных/3_Информация о SQL",
-    "go_stack/Ссылки на темы.md",
     "go_stack/1_go_основы/09_Массивы, слайсы и  мапы.md",
     "Pasted image 20260717222403.png.md",
     "go_stack/3_backend-технологии/2_базы данных/1_Типы бд/1_Реляционные базы данных.md",
@@ -223,10 +227,6 @@
     "go_stack/2_Go-углубленный/25_Тело HTTP запроса.md",
     "go_stack/2_Go-углубленный/24_Первый HTTP сервер.md",
     "go_stack/2_Go-углубленный/23_Знакомство с HTTP.md",
-    "go_stack/2_Go-углубленный/22_Конкурентность пример.md",
-    "go_stack/2_Go-углубленный/21_RWMutex.md",
-    "go_stack/2_Go-углубленный/20_Состояние гонки.md",
-    "go_stack/2_Go-углубленный/19_WaitGroup.md",
     "go_stack/3_backend-технологии/2_базы данных/2_Структура реляционных бд",
     "go_stack/3_backend-технологии/2_базы данных/1_Типы бд",
     "go_stack/3_backend-технологии/1_база по бекенд технологиям",
